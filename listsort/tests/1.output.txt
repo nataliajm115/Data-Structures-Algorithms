@@ -1,0 +1,4 @@
+How many numbers?
+Please enter the numbers, one per line:
+The original list: 17 42 23 
+The sorted list: 17 23 42 

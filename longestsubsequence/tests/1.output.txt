@@ -1,0 +1,5 @@
+How many numbers?
+Please enter the numbers, one per line:
+The longest increasing sequence starts at position 0:
+23
+42

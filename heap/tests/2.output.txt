@@ -1,0 +1,8 @@
+Please enter one of the following:
+- any positive value to insert into the heap
+- a 0 to remove and print the maximum element
+- a -1 to quit.
+Removed maximum value from heap: 3
+Removed maximum value from heap: 6
+Removed maximum value from heap: 5
+Removed maximum value from heap: 4

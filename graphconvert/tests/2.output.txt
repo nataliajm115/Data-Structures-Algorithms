@@ -1,0 +1,9 @@
+How many nodes does the graph have?
+To add an edge, enter two nodes (between 0 and 5) separated by a space.
+To finish and convert the graph, enter '!'.
+reachable from 0: 4
+reachable from 1: 5 2
+reachable from 2: 5 3 1
+reachable from 3: 4 2
+reachable from 4: 5 3 0
+reachable from 5: 4 2 1

@@ -1,0 +1,4 @@
+How many numbers?
+Please enter the numbers, one per line:
+Using recursion the sum of the numbers is 82.
+Using while the sum of the numbers is 82.

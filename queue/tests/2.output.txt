@@ -1,0 +1,7 @@
+What is the first number?
+What is the second number?
+What is the third number?
+Now we will dequeue from the queue.
+1000
+-5555
+3333

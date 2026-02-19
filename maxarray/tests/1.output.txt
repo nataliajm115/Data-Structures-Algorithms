@@ -1,0 +1,3 @@
+How many numbers?
+Please enter the numbers, one per line:
+The maximum value in this array is 42

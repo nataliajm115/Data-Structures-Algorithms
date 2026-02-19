@@ -1,0 +1,5 @@
+What is n?
+What is the next number?
+What is the next number?
+What is the next number?
+10 20 30

@@ -1,0 +1,2 @@
+Please enter two numbers, one per line:
+x = 67, y = 23, z = 90

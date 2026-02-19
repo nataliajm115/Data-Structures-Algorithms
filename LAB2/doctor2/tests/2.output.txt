@@ -1,0 +1,29 @@
+Currently there are 0 patients in the queue.
+What do you want to do? [N]ew patient, [Q]uit:
+What is the name of the patient?
+What is the age of the patient?
+What is the priority of the patient?
+Currently there are 1 patients in the queue.
+What do you want to do? [N]ew patient, [T]reat patient, [L]ist, [Q]uit:
+What is the name of the patient?
+What is the age of the patient?
+What is the priority of the patient?
+Currently there are 2 patients in the queue.
+What do you want to do? [N]ew patient, [T]reat patient, [L]ist, [Q]uit:
+What is the name of the patient?
+What is the age of the patient?
+What is the priority of the patient?
+Currently there are 3 patients in the queue.
+What do you want to do? [N]ew patient, [T]reat patient, [L]ist, [Q]uit:
+What is the name of the patient?
+What is the age of the patient?
+What is the priority of the patient?
+Currently there are 4 patients in the queue.
+What do you want to do? [N]ew patient, [T]reat patient, [L]ist, [Q]uit:
+Treating the patient Ada Lovelace (age: 206, priority: 100).
+Currently there are 3 patients in the queue.
+What do you want to do? [N]ew patient, [T]reat patient, [L]ist, [Q]uit:
+Treating the patient Donald E. Knuth (age: 84, priority: 70).
+Currently there are 2 patients in the queue.
+What do you want to do? [N]ew patient, [T]reat patient, [L]ist, [Q]uit:
+Goodbye!

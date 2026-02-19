@@ -1,0 +1,10 @@
+Which of the two example tries do you want to use?
+1. {a, are, bee}
+2. {a, are, at, bee, bit}
+Enter '1' or '2'.
+Do you want to print the trie or the words? Enter 'T' or 'W'.
+a
+are
+at
+bee
+bit

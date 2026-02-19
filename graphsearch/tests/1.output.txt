@@ -1,0 +1,13 @@
+How many nodes does the graph have?
+To add an edge, enter two nodes (between 0 and 2) separated by a space.
+We assume undirected unweighted graphs here. Hence, if you add the
+edge '0 1' then please also add '1 0' etc. To finish, enter '!'.
+What is the starting node?
+Which search algorithm do you want to run?
+ Write 'a' to use DFS for the two-dimensional array representation.
+ Write 'b' to use BFS for the two-dimensional array representation.
+ Write 'c' to use DFS for the adjacency list representation.
+ Write 'd' to use BFS for the adjacency list representation.
+0
+1
+2

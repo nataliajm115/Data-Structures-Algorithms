@@ -1,0 +1,13 @@
+What is the height of the tree?
+Please enter the array representation of the tree (7 items).
+Start with with the root and enter one value per line.
+Only use positive values and -1 to denote empty spots.
+The array representation: -1 1 2 3 4 5 6 7
+Printing the pointer tree in-order:
+4
+2
+5
+1
+6
+3
+7

@@ -1,0 +1,5 @@
+How many numbers?
+Please enter 3 numbers, one per line:
+The given list is: 10 5 7
+Of which number should the last occurence be removed?
+The result after removing the last occurrence of 5 is: 10 7

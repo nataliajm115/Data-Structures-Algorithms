@@ -1,0 +1,7 @@
+How many numbers?
+Please enter 3 numbers, one per line:
+The given list is: 23 42 17
+Printing the list in reverse order:
+17
+42
+23

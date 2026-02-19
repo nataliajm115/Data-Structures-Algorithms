@@ -1,0 +1,942 @@
+a
+able
+above
+absolute
+access
+accurate
+add
+added
+adding
+addition
+address
+after
+algorithm
+algorithms
+allocate
+allocated
+allocating
+allocation
+allow
+allows
+also
+always
+amount
+an
+analysis
+and
+another
+any
+append
+apply
+approach
+are
+array
+arrays
+as
+assignment
+at
+average
+
+back
+base
+basic
+behavior
+best
+binary
+bit
+block
+boolean
+both
+branch
+bucket
+bug
+bugs
+build
+built
+by
+
+cache
+calculate
+calculated
+calculating
+calculation
+call
+called
+calling
+capacity
+case
+chain
+character
+characters
+check
+child
+children
+choose
+clean
+clear
+code
+collapse
+combine
+common
+compare
+comparison
+complete
+complex
+component
+compute
+computed
+computing
+concept
+condition
+configured
+connect
+constant
+construct
+contains
+content
+continue
+control
+correct
+correctly
+cost
+count
+counter
+create
+created
+creation
+current
+cycle
+
+data
+database
+dataset
+date
+debug
+debugging
+decrease
+decrement
+default
+define
+defined
+definition
+delete
+deleted
+deleting
+deletion
+depth
+design
+detailed
+determine
+develop
+development
+dictionary
+difference
+different
+digit
+dimensions
+direct
+direction
+discuss
+divide
+division
+document
+documentation
+done
+double
+down
+draw
+dynamic
+
+each
+easy
+efficient
+efficiency
+efficiently
+element
+elements
+empty
+enable
+enabled
+end
+entries
+entry
+error
+errors
+especially
+evaluate
+evaluation
+even
+ever
+every
+exact
+example
+execute
+execution
+existing
+expensive
+explain
+explained
+exploring
+
+factor
+fail
+failure
+false
+fast
+faster
+feature
+field
+file
+final
+finally
+find
+first
+fixed
+flag
+flow
+follow
+following
+for
+force
+form
+format
+forward
+free
+freeing
+frequent
+full
+function
+functions
+
+general
+generic
+generate
+generated
+gets
+given
+global
+goal
+good
+graph
+graphs
+greater
+group
+growth
+
+handle
+handled
+handling
+hash
+heap
+heaps
+height
+help
+helper
+ensures
+high
+higher
+
+if
+ignore
+implement
+implementation
+implemented
+important
+improve
+in
+include
+included
+including
+index
+indices
+inefficient
+info
+information
+insert
+inserted
+inserting
+insertion
+inside
+instance
+instead
+integer
+intend
+intended
+interface
+internal
+interpret
+invalid
+invert
+iteration
+iterate
+iterating
+iterator
+
+just
+
+keep
+key
+keyword
+keywords
+kind
+knowledge
+
+label
+language
+large
+larger
+last
+later
+layer
+learn
+learning
+left
+length
+less
+level
+library
+limit
+line
+linked
+list
+lists
+load
+location
+logic
+long
+loop
+lower
+
+main
+maintain
+maintains
+make
+malloc
+mark
+matching
+max
+maximum
+mean
+measure
+mechanism
+memory
+message
+method
+middle
+minimum
+mistake
+mode
+modify
+module
+more
+most
+
+name
+need
+nested
+never
+new
+next
+node
+nodes
+non
+none
+normal
+note
+nothing
+now
+null
+number
+
+object
+occur
+occurs
+of
+off
+offset
+often
+on
+once
+only
+open
+operation
+operations
+operator
+optimal
+option
+optional
+order
+ordered
+organization
+other
+output
+overflow
+overhead
+
+parameter
+parameters
+parent
+parse
+part
+partial
+pass
+passed
+pattern
+perform
+performance
+performed
+pointer
+pointers
+pop
+position
+possible
+post
+pre
+prepare
+present
+prevent
+previous
+print
+printed
+priority
+problem
+problems
+process
+processed
+program
+programming
+project
+proper
+properly
+property
+provide
+provided
+push
+
+quality
+queue
+queues
+quick
+quickly
+
+range
+rate
+read
+reading
+real
+reasonable
+receive
+received
+record
+recursive
+recursion
+red
+reference
+reflect
+refresh
+region
+relation
+remove
+removed
+removing
+repeat
+replace
+report
+require
+required
+requirement
+reserved
+reset
+resolve
+resource
+respect
+restart
+result
+results
+return
+returned
+right
+root
+routine
+rule
+run
+running
+
+sample
+same
+save
+scale
+scan
+scanner
+scatter
+scenario
+search
+searched
+searching
+second
+section
+see
+select
+separate
+separately
+sequence
+set
+setting
+shift
+short
+should
+show
+shown
+side
+significant
+similar
+simple
+simplify
+simulate
+simulation
+single
+size
+skip
+slow
+smaller
+software
+solve
+solver
+sorted
+sorting
+source
+space
+specific
+specify
+speed
+stack
+stacks
+standard
+start
+state
+step
+store
+stored
+strategy
+string
+strings
+struct
+structure
+subproblem
+subroutine
+success
+successfully
+sum
+symbol
+syntax
+system
+
+table
+take
+taken
+task
+technique
+terminate
+test
+tested
+testing
+than
+that
+the
+their
+them
+then
+theory
+there
+these
+they
+this
+through
+time
+to
+together
+tool
+top
+topic
+total
+tradeoff
+traverse
+tree
+trees
+true
+try
+type
+types
+
+under
+understand
+unit
+unique
+unknown
+unless
+until
+up
+update
+updated
+upper
+usage
+use
+used
+useful
+user
+using
+
+valid
+value
+values
+var
+variable
+variables
+vector
+verify
+version
+very
+via
+view
+visual
+
+walk
+was
+way
+we
+well
+what
+when
+where
+which
+while
+why
+will
+with
+word
+words
+work
+works
+working
+would
+
+you
+your
+
+// C LANGUAGE KEYWORDS
+auto
+break
+case
+char
+const
+continue
+default
+do
+double
+else
+enum
+extern
+float
+for
+goto
+if
+inline
+int
+long
+register
+restrict
+return
+short
+signed
+sizeof
+static
+struct
+switch
+typedef
+union
+unsigned
+void
+volatile
+while
+
+// COMMON C STANDARD LIBRARY FUNCTIONS
+assert
+free
+malloc
+printf
+scanf
+strcmp
+strcpy
+strlen
+memcpy
+memset
+calloc
+realloc
+
+%
+/**
+ * @file doctor2.c
+ * @brief Simulates a hospital's waiting room using a priority linked list.
+ *
+ * This program allows adding, treating, and listing patients in the waiting room,
+ * ordered by priority. The implementation uses
+ * linked list operations to maintain the waiting room.
+ *
+ * Date: 30/10/2025
+ * Course: Data Structures and Algorithms (Lab 2)
+ */
+
+#include <assert.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+/************************************************************
+ *                     LINKED LIST LIBRARY
+ *  Contains all functions related to the Patient structure:
+ *  creating the waiting room, adding new patients, treating them, listing them, and freeing memory.
+ ************************************************************/
+
+typedef struct Patient {
+  char name[201];        // patient's name (string)
+  int age;               // patient's age
+  int priority;          // patient's priority number
+  struct Patient* next;  // pointer to the next patient in the list
+} Patient;
+
+/**
+ * @brief Creates and returns a new empty waiting room.
+ *
+ * @pre   None.
+ * @post  Returns a NULL pointer representing an empty waiting room.
+ *
+ * @return NULL pointer.
+ */
+Patient* newEmptyPatient(void) {
+  return NULL;
+}
+
+/**
+ * @brief  Checks whether the waiting room is empty or not.
+ *
+ * @pre    The input parameter may point to NULL or to a valid Patient node.
+ * @post   Does not modify the list.
+ *
+ * @param  p Pointer to the head of the waiting room.
+ * @return 1 if list is empty, 0 otherwise.
+ */
+int isEmpty(Patient* p) {
+  return (p == NULL);
+}
+
+/**
+ * @brief  Prints an error message when the waiting room is empty.
+ *
+ * @pre    Only called when the patient list is known to be empty.
+ * @post   Prints error message and returns NULL.
+ *
+ * @return NULL pointer.
+ */
+Patient* listEmptyError(void) {
+  printf("No patients to treat!\n");
+  return NULL;
+}
+
+/**
+ * @brief  Allocates and initializes a new Patient structure.
+ *
+ * @pre    'name' should be a valid string.
+ *         'age' and 'priority' should be a valid integers.
+ * @post   Returns pointer to new patient object with all its fields.
+ *
+ * @param  name         Patient's name.
+ * @param  age          Patient's age.
+ * @param  priority     Patient's priority level.
+ * @return Pointer to the new patient.
+ */
+Patient* newPatient(char name[], int age, int priority) {
+  Patient* new = malloc(sizeof(Patient));
+  assert(new != NULL);
+  strcpy(new->name, name);
+  new->age = age;
+  new->priority = priority;
+  new->next = NULL;
+  return new;
+}
+
+/**
+ * @brief  Iterates trhough the waiting room to find patient's
+ * position according to its priority.
+ *
+ * @pre    'head' may point to NULL or point to a valid patient.
+ *         'name' should be a valid string.
+ *         'age' and 'priority' should be valid integers
+ * @post   Returns new head pointer to the newly updated list.
+ *
+ * @param  head         Pointer to the first patient.
+ * @param  name         Patient's name.
+ * @param  age          Patient's age.
+ * @param  priority     Patient's priority.
+ * @return Pointer to the head of the updated waiting room.
+ */
+Patient* insertInOrder(Patient* head, char name[], int age, int priority, int* counter) {
+  Patient* new = newPatient(name, age, priority);
+
+  // Case 1: empty list or new patient has highest priority
+  if (isEmpty(head) || priority > head->priority) {
+    new->next = head;
+    (*counter)++;
+    return new;
+  }
+
+  // Case 2: find correct position
+  Patient* current = head;
+  while (current->next != NULL && current->next->priority >= priority) {
+    // Use >= to give higher priority to patients that arrived earlier
+    current = current->next;
+  }
+
+  // Insert patient in the right position
+  new->next = current->next;
+  current->next = new;
+  (*counter)++;
+  return head;
+}
+
+/**
+ * @brief Removes first patient of the waiting room if not empty.
+ *
+ * @pre   'head' may be NULL or point to a valid patient.
+ * @post  First patient is freed and the head pointer moves to the next patient.
+ *
+ * @param  head         Pointer to the first patient.
+ * @return Pointer to the head of the new waiting room.
+ */
+Patient* removeFirstPatient(Patient* head) {
+  if (isEmpty(head)) {
+    listEmptyError();
+  }
+  Patient* next = head->next;
+  free(head);
+  return next;
+}
+
+/**
+ * @brief  Treats a patient by printing their details and freeing
+ * it (by highest priority).
+ *
+ * @pre    'head' may be NULL or point to a valid patient.
+ * @post   Prints and frees the first patient when waiting room is not empty.
+ *
+ * @param  head         Pointer to the first patient.
+ * @return Pointer to the head of the new waiting room.
+ */
+Patient* treatPatient(Patient* head, int* counter) {
+  if (isEmpty(head)) {
+    listEmptyError();
+  }
+  printf("Treating the patient %s (age: %d, priority: %d).\n", head->name, head->age, head->priority);
+  head = removeFirstPatient(head);
+  (*counter)--;
+  return head;
+}
+
+/**
+ * @brief  Recursively lists all patients in the waiting room by priority.
+ *
+ * @pre    'head' may be NULL or point to a valid patient.
+ * @post   Prints one line per patient without destructing the list.
+ *
+ * @param  head         Pointer to the first patient.
+ */
+void listAllPatients(Patient* head) {
+  if (isEmpty(head)) {
+    return;
+  }
+  printf("%s (age: %d, priority: %d)\n", head->name, head->age, head->priority);
+  listAllPatients(head->next);
+}
+
+/**
+ * @brief  Frees all patients in the waiting room.
+ *
+ * @pre    'head' may be NULL or point to a valid patient.
+ * @post   All allocated memory for the waiting room is released.
+ *
+ * @param  head         Pointer to the first patient.
+ */
+void freeAll(Patient* head) {
+  while (!isEmpty(head)) {
+    Patient* temp = head;
+    head = head->next;
+    free(temp);
+  }
+}
+
+/************************************************************
+ *                     MAIN PROGRAM
+ *  Implements the waiting room interface to manage patients.
+ *  Handles user input and uses the linked list library above.
+ ************************************************************/
+
+int main(void) {
+  // Initialization:
+  // Program manages a waiting room of patients in a hospital,
+  // ordered by priority (highest to lowest).
+  // Starts with an empty list and a patient counter.
+  Patient* waitingRoom = newEmptyPatient();
+  int count = 0;
+  char command;
+
+  // Main loop.
+  while (1) {
+    // Display the number of patients that are currently in
+    // the waiting room.
+    printf("Currently there are %d patients in the queue.\n", count);
+
+    // Shows the user the available options.
+    if (count == 0) {
+      printf("What do you want to do? [N]ew patient, [Q]uit:\n");
+    } else {
+      printf("What do you want to do? [N]ew patient, [T]reat patient, [L]ist, [Q]uit:\n");
+    }
+
+    // Read user command skipping whitespaces and newline characters.
+    scanf(" %c", &command);
+
+    // Option: add new patient.
+    if (command == 'N') {
+      char name[201];
+      int age, priority;
+
+      printf("What is the name of the patient?\n");
+      scanf(" %200[^\n]", name);
+      printf("What is the age of the patient?\n");
+      scanf("%d", &age);
+      printf("What is the priority of the patient?\n");
+      scanf("%d", &priority);
+
+      waitingRoom = insertInOrder(waitingRoom, name, age, priority, &count);
+    }
+
+    // Option: treat patient.
+    else if (command == 'T') {
+      waitingRoom = treatPatient(waitingRoom, &count);
+    }
+
+    // Option: list all patients by priority.
+    else if (command == 'L') {
+      listAllPatients(waitingRoom);
+    }
+
+    // Option: quit program.
+    else if (command == 'Q') {
+      printf("Goodbye!\n");
+      break;
+    }
+  }
+
+  // Cleanup: free the waiting room from memory.
+  freeAll(waitingRoom);
+  return 0;
+}

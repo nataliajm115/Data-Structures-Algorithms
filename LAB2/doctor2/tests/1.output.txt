@@ -1,0 +1,27 @@
+Currently there are 0 patients in the queue.
+What do you want to do? [N]ew patient, [Q]uit:
+What is the name of the patient?
+What is the age of the patient?
+What is the priority of the patient?
+Currently there are 1 patients in the queue.
+What do you want to do? [N]ew patient, [T]reat patient, [L]ist, [Q]uit:
+What is the name of the patient?
+What is the age of the patient?
+What is the priority of the patient?
+Currently there are 2 patients in the queue.
+What do you want to do? [N]ew patient, [T]reat patient, [L]ist, [Q]uit:
+What is the name of the patient?
+What is the age of the patient?
+What is the priority of the patient?
+Currently there are 3 patients in the queue.
+What do you want to do? [N]ew patient, [T]reat patient, [L]ist, [Q]uit:
+Treating the patient Alice (age: 17, priority: 3).
+Currently there are 2 patients in the queue.
+What do you want to do? [N]ew patient, [T]reat patient, [L]ist, [Q]uit:
+Treating the patient Carol (age: 42, priority: 2).
+Currently there are 1 patients in the queue.
+What do you want to do? [N]ew patient, [T]reat patient, [L]ist, [Q]uit:
+Treating the patient Bob (age: 23, priority: 1).
+Currently there are 0 patients in the queue.
+What do you want to do? [N]ew patient, [Q]uit:
+Goodbye!

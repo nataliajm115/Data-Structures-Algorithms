@@ -1,0 +1,5 @@
+How many numbers?
+Please enter 6 numbers, one per line:
+The given list is: 1 2 3 2 3 4
+Of which number should the last occurence be removed?
+The result after removing the last occurrence of 3 is: 1 2 3 2 4

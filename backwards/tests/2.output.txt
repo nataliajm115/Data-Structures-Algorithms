@@ -1,0 +1,9 @@
+How many numbers?
+Please enter 5 numbers, one per line:
+The given list is: 111 222 -333 500 -500
+Printing the list in reverse order:
+-500
+500
+-333
+222
+111

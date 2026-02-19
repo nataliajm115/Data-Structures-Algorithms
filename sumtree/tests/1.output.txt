@@ -1,0 +1,4 @@
+Please enter seven values to make a tree of height 2.
+Start with with the root and enter one value per line.
+Only use positive values or use -1 to denote empty spots.
+The sum of the tree is 45.

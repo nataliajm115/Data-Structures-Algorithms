@@ -1,0 +1,2 @@
+Please enter two numbers, one per line:
+x = 10, y = 3, z = 13

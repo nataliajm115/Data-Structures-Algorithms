@@ -1,0 +1,3 @@
+What is n?
+What is the next number?
+23

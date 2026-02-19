@@ -1,0 +1,7 @@
+How many numbers?
+Please enter the numbers, one per line:
+The longest increasing sequence starts at position 19:
+9
+87
+4321
+97247

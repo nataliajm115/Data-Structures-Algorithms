@@ -1,0 +1,41 @@
+one
+two
+three
+four
+five
+six
+seven
+eight
+nine
+ten
+eins
+zwei
+drei
+vier
+fuenf
+sechs
+sieben
+acht
+neun
+zehn
+yksi
+kaksi
+kolme
+nelja
+viisi
+kuusi
+seitseman
+kahdeksan
+yhdeksan
+kymmenen
+%
+one surprise eins yksi
+two zwei kaksi
+three unknown drei kolme
+four vier nelja
+five fuenf nope viisi
+six sechs kuusi
+seven sieben seitseman
+eight nope acht kahdeksan
+nine neun yhdeksan
+ten zehn kymmenen

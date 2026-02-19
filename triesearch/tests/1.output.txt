@@ -1,0 +1,2 @@
+Which word do you want to search in the trie?
+The word 'are' is in the trie.

@@ -1,0 +1,12 @@
+Please enter seven values to make a tree of height 2.
+Start with with the root and enter one value per line.
+Only use positive values or use -1 to denote empty spots.
+Printing the tree in-order:
+4
+8
+21
+19
+25
+31
+37
+That is NOT a search tree.

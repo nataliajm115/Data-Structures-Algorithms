@@ -1,0 +1,4 @@
+How many numbers?
+Please enter the numbers, one per line:
+The original array: 23 42 17
+The sorted array: 17 23 42

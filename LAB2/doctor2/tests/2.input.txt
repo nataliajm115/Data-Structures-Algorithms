@@ -1,0 +1,19 @@
+N
+Ada Lovelace
+206
+100
+N
+Margaret Hamilton
+86
+5
+N
+Donald E. Knuth
+84
+70
+N
+Agnes Meyer Driscoll
+133
+13
+T
+T
+Q

@@ -1,0 +1,16 @@
+N
+Alice
+17
+3
+N
+Bob
+23
+1
+N
+Carol
+42
+2
+T
+T
+T
+Q

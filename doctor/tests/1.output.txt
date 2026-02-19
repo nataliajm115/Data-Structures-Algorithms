@@ -1,0 +1,11 @@
+Currently there are 0 patients in the queue.
+What do you want to do? [N]ew patient, [T]reat patient, [Q]uit: Please enter the patient ID: Currently there are 1 patients in the queue.
+What do you want to do? [N]ew patient, [T]reat patient, [Q]uit: Please enter the patient ID: Currently there are 2 patients in the queue.
+What do you want to do? [N]ew patient, [T]reat patient, [Q]uit: Please enter the patient ID: Currently there are 3 patients in the queue.
+What do you want to do? [N]ew patient, [T]reat patient, [Q]uit: Sorry, the queue is full!
+Currently there are 3 patients in the queue.
+What do you want to do? [N]ew patient, [T]reat patient, [Q]uit: Now treating patient 101.
+Currently there are 2 patients in the queue.
+What do you want to do? [N]ew patient, [T]reat patient, [Q]uit: Now treating patient 202.
+Currently there are 1 patients in the queue.
+What do you want to do? [N]ew patient, [T]reat patient, [Q]uit:

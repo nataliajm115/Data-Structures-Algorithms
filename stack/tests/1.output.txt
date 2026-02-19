@@ -1,0 +1,7 @@
+What is the first number?
+What is the second number?
+What is the third number?
+Now we will pop from the stack.
+23
+5
+10

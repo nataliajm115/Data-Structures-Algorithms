@@ -1,0 +1,5 @@
+How many nodes does the graph have?
+To add an edge, enter two nodes (between 0 and 3) separated by a space.
+The graph is undirected, so whether you enter '0 1' or '1 0' makes no difference.
+To finish and check if the graph has an Euler path/cycle, enter '!'.
+This graph has no Euler path.
